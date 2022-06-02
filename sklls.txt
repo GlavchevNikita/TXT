@@ -1,0 +1,27 @@
+Skills1 Basic theory (What is testing, bugs, documentation, types, methods, testing directions, etc.) SDLC, STLC.
+Skills2 What is client-server architecture.
+Skills3 HTTP Server Query Methods.
+Skills4 HTTP Server Response Codes.
+Skills5 HTTP request and response structures
+Skills6 What is JSON, XML. Their structure.
+Skills7 API testing via Postman (JS, API autotests).
+Skills8 Removes and reads logs from an external server.
+Skills9 Snifing http web traffic through Charles and Fiddler.
+Skills10 Dev Tools (Google Chrome, FireFox).
+Skills11 VPN. (How Works, Why You Need, How to Use, Tool Options)
+Skills12 Mobile testing.
+Skills13 Feature of iOS, Android, Guides.
+Skills14 Build iOS applications on XCode. (Who does not have a Mac computer, just look)
+Skills15 Build Android apps on Android Studio.
+Skills16 ADB (android device management).
+Skills17 Configure proxy and vpn on iOS and Android.
+Skills18 Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.
+Skills19 Linux command line (terminal) (copy, create, view, move files on servers without GUI)
+Skills20 Basics bash scripting, automation of routine tasks on the server.
+Skills21 Access to remote servers.
+Skills22 Fundamentals of SQL (Create, Delete, Drop, Insert, Select, From, Where, Connect).
+Skills23 Postgres database (installation, configuration and use).
+Skills24 Redis non-relative database (installation, configuration and use).
+Skills25 Load testing in Jmeter.
+Skills26 The Scrum Development Methodology.
+Skills27 Python. (Learning Basics. Creating a Server Application Client)

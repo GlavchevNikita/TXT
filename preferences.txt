@@ -1,0 +1,6 @@
+favorite_film Prestige, The
+favorite_series The 100
+favorite_food Japanese chicken
+favorite_season Summer
+faforite_country Denmark
+

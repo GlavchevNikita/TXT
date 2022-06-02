@@ -1,0 +1,6 @@
+surname Glavchev
+name Nikita
+patronymic Yurievich
+age 25
+number_of_pets no
+desired_salary 30000$

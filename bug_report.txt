@@ -1,1 +1,9 @@
-
+Bug_ID 1
+Description The_background_does_not_change correctly.Learned_to_try_for_free.Feature_page.On_hover.
+Steps_to_Reproduce
+1) Open_page_https://www.atlassian.com/en/software/jira/features
+2) Hover_over_the_'Get_Free'_button
+AR Button_background_changes_to_#004783
+ER Button_background_changes_to_#000000
+Severity Minor
+Priority Medium
